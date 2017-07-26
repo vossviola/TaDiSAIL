@@ -34,11 +34,9 @@ Initiatives using TaDiRAH, upon which TaDiSAIL is based
 * DiRT Digital Research Tools: http://dirtdirectory.org/
 * Digital Humanities Course Registry, DARIAH-DE Cologne / CLARIAH-NL Rotterdam, https://dh-registry.de.dariah.eu/
 
-Presentations and publications on TaDiRAH
+Presentations and publications on TaDiSAIL
 -----------------------
-* Borek, Luise; Quinn Dombrowski; Matthew Munson; Jody Perkins; Christof Schöch: "Scholarly primitives revisited: towards a practical taxonomy of digital humanities research activities and objects", short paper, Digital Humanities Conference 2014, Lausanne, Switzerland, July 7-12, 2014, http://dh2014.org/paper-session-details/
-* Dombrowski, Quinn & Jody Perkins: "TaDiRAH: Building Capacity for Integrated Access", dh+lib, May 21, 2014, http://acrl.ala.org/dh/2014/05/21/tadirah-building-capacity-integrated-access/
-* Jody Perkins, Quinn Dombrowski, Luise Borek, Christof Schöch: "Building bridges to the future of a distributed network: From DiRT categories to TaDiRAH, a methods taxonomy for digital humanities", Proceedings of the International Conference on Dublin Core and Metadata Applications 2014, 2014, http://dcpapers.dublincore.org/pubs/article/view/3720 
+* **De-Centering and Recentering Digital Scholarship: A Manifesto.** (In progress to be published August 2017). Rachel Smart, Carolyn Moritz, Matt Hunter, Aaron Retteen, Sarah Stanley, Devin Soper, Micah Vandegrift
 
 Good to know
 ------------
