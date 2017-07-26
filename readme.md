@@ -8,7 +8,6 @@ Repository content
 
 * Reading - section providing a reader-friendly version of the taxonomy
 * Reference - section providing a semi-technical reference version of the taxonomy
-* see also: machine-readable version in SKOS at http://tadirah.dariah.eu/vocab/
 
 Aspects of the taxonomy
 -----------------------
@@ -46,6 +45,6 @@ Good to know
 
 If you have comments on the taxonomy, please use the issue tracker here on GitHub. You are welcome to fork and reuse the taxonomy in your project. Please tell us about it!
 
-TaDiSAIL is usually pronounced "ta-di-sail" and is not an animal.
+TaDiSAIL is usually pronounced "ta-di-sail" and is not a nautical device.
 
 In addition to the current human-readable version of the taxonomy, we are planning to publish machine-readable formats of it.
