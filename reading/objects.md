@@ -1,39 +1,30 @@
-Digital Humanities Research Objects
+Digital Scholarship Objects and Outputs
 ===================================
 
-* Artifacts
-* BibliographicListings
-* Computers
-* Curricula
-* DigitalHumanities
-* Data
-* File
-* Images
+* Bibliographies (open)
+* Collections of research outputs
+* Open Educational Resources
+* Digital humanities tools
+* Digital humanities project websites
+* Humanities data sets
+* Data management plans
+* Data Literacy training materials
+* Digitized images
 * Images(3D)
-* Infrastructure
-* Interaction
-* Language
-* Link
-* Literature
-* Manuscript
-* Map
+* Repository platforms
+* Repository platform modules/add-ons
+* Digital editions
+* Maps
 * Metadata
 * Methods
 * Multimedia
-* Multimodal
-* NamedEntities
-* Persons
-* Projects
-* Research
-* ResearchProcess
-* ResearchResults
-* SheetMusic
+* Policies (open access)
+* Policies (data management)
+* Policies (data collection development)
+* Workflows
 * Software
-* Sound
 * Standards
-* Text
-* TextBearingObjects
-* Tools
+* Texts
 * Video
 * Visualization
 * VREs
