@@ -1,7 +1,7 @@
-TaDiRAH - Taxonomy of Digital Research Activities in the Humanities (v. 0.5.1, 05/2014)
+TaDiSAIL - Taxonomy of Digital Scholarship Activities in Libraries (v. 0.0.0, 08/2017)
 =====================================================================================
 
-This taxonomy of digital research activities in the humanities has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings. 
+This taxonomy of digital scholarship activities in libraries was developed for use by the library community in the development of digital scholarship offices, programs, and initiatives. The taxonomy is expected to be particularly useful to endeavors aiming to chacterize and discuss the intellectual and process-based labor that accompanies this work, to library and campus administrators, in collaboration with researchers, and in making cases in promotion and tenure binders.
 
 Repository content
 ---------------
@@ -19,23 +19,21 @@ Aspects of the taxonomy
 
 Coordinators
 ------------
-* Luise Borek, Darmstadt, Germany
-* Quinn Dombrowski, Berkeley, CA, USA
-* Jody Perkins, Oxford OH, USA
-* Christof Schöch, Würzburg, Germany
-* (formerly) Matthew Munson, Leipzig, Germany
+* Micah Vandegrift
 
 Contributors
 ------------
-* Diego Ferreyra, CAICYT - CONICET, Buenos Aires, Argentina (TemaTres development and administration)
-* Gimena del Rio Riande, SECRIT-IIBICRIT, CONICET, Buenos Aires, Argentina (Spanish translation)
+* You
+* Your scholcomm librarian
+* Your data librarian
+* Your colleagues in "digital scholarship centers"
+* Your digital humanities librarians/designers/developers/strategists
 
-Initiatives using TaDiRAH
+Initiatives using TaDiRAH, upon which TaDiSAIL is based
 -------------------------
 * Doing Digital Humanities Bibliography, DARIAH-DE: http://https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography/items/order/creator/sort/asc
 * DiRT Digital Research Tools: http://dirtdirectory.org/
 * Digital Humanities Course Registry, DARIAH-DE Cologne / CLARIAH-NL Rotterdam, https://dh-registry.de.dariah.eu/
-* ... more in preparation
 
 Presentations and publications on TaDiRAH
 -----------------------
@@ -48,6 +46,6 @@ Good to know
 
 If you have comments on the taxonomy, please use the issue tracker here on GitHub. You are welcome to fork and reuse the taxonomy in your project. Please tell us about it!
 
-TaDiRAH is usually pronounced "ta-DEE-ra" and is not an animal. However, DiRT and DARIAH are both partial anagrams of it.
+TaDiSAIL is usually pronounced "ta-di-sail" and is not an animal.
 
 In addition to the current human-readable version of the taxonomy, we are planning to publish machine-readable formats of it.
