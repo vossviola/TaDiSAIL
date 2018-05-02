@@ -36,7 +36,7 @@ Initiatives using TaDiRAH, upon which TaDiSAIL is based
 
 Presentations and publications on TaDiSAIL
 -----------------------
-* **De-Centering and Recentering Digital Scholarship: A Manifesto.** (In progress to be published August 2017). Rachel Smart, Carolyn Moritz, Matt Hunter, Aaron Retteen, Sarah Stanley, Devin Soper, Micah Vandegrift
+* **De-Centering and Recentering Digital Scholarship: A Manifesto.** Rachel Smart, Carolyn Moritz, Matt Hunter, Aaron Retteen, Sarah Stanley, Devin Soper, Micah Vandegrift. LIS Scholarship Archive, 7 Aug. 2017. https://dx.doi.org/10.17605/OSF.IO/T7HFU.
 
 Good to know
 ------------
