@@ -30,7 +30,7 @@ Contributors
 
 Initiatives using TaDiRAH, upon which TaDiSAIL is based
 -------------------------
-* Doing Digital Humanities Bibliography, DARIAH-DE: http://https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography/items/order/creator/sort/asc
+* Doing Digital Humanities Bibliography, DARIAH-DE: https://www.zotero.org/groups/doing_digital_humanities_-_a_dariah_bibliography/items/order/creator/sort/asc
 * DiRT Digital Research Tools: http://dirtdirectory.org/
 * Digital Humanities Course Registry, DARIAH-DE Cologne / CLARIAH-NL Rotterdam, https://dh-registry.de.dariah.eu/
 
